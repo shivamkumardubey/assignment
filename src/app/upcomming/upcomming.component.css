@@ -1,0 +1,22 @@
+.card{
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 9px 16px 0 rgba(0,106,194,.2);
+    margin-top: 30px;
+    height: 450px;
+    padding: 10px;
+    overflow-y: hidden;
+}
+.iconstyl{
+    margin-right: 10px;
+    position: relative;
+    top: 6px;
+}
+.btnstyl{
+    float: right;
+    margin-right: 6%;
+}
+.overviewstyl{
+   height: 215px;
+    overflow-y: scroll;
+}
